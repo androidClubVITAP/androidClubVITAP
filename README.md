@@ -52,17 +52,17 @@ Our members leverage a diverse stack to build magic. Here is a glimpse of the to
 
 Guided by our Faculty Coordinator, **Dr. Peeyush Singh**, and driven by an incredibly dedicated student executive board, the Android Club is more than just a tech group—it's a launchpad for future engineers. 
 
-When we aren't pushing code to GitHub, you can usually find us brainstorming and collaborating on projects right here on campus at **Room CB G14** or the **IIEC CB venue**.
+When we aren't pushing code to GitHub, you can usually find us brainstorming and collaborating on projects right here on campus.
 
 <br>
 
 ## 🔗 Connect With Us
 
 <div align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/company/android-club-vitap/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#">
+  <a href="https://www.instagram.com/androidclubvitap/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="#">
